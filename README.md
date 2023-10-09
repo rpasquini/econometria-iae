@@ -2,7 +2,7 @@
 
 ## Slides
 * [Dia 1 Modelo Lineal y CEF](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%201.pdf)
-* [Statistical Power and Choosing the Right Sample Size J-PAL](https://www.povertyactionlab.org/sites/default/files/research-resources/L5ChoosingTheRightSampleSize.pdf)
+
 
 
 ## Notebooks
@@ -37,4 +37,5 @@
 * [Pasquini, R. (2019). Effects of Regulating the Brokerage Commission in the Rental Market: Evidence from Buenos Aires. Available at SSRN.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3491321)
 
 ## Otros
+* [Statistical Power and Choosing the Right Sample Size J-PAL](https://www.povertyactionlab.org/sites/default/files/research-resources/L5ChoosingTheRightSampleSize.pdf)
 * [Optimal design software](https://sites.google.com/site/optimaldesignsoftware/home)
