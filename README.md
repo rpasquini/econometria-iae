@@ -1,5 +1,10 @@
 # Econometría- Doctorado en Dirección de Empresas - IAE 2023
 
+## Slides
+* [Dia 1 Modelo Lineal y CEF]([https://github.com/rpasquini/herramientas-econometricas/tree/main/slides](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%201.pdf)
+* [Statistical Power and Choosing the Right Sample Size J-PAL](https://www.povertyactionlab.org/sites/default/files/research-resources/L5ChoosingTheRightSampleSize.pdf)
+
+
 ## Notebooks
 
 * [Día 1 Función de Esperanza Condicional](https://github.com/rpasquini/herramientas-econometricas/blob/main/CEF.ipynb) 
@@ -12,9 +17,6 @@
 * [Día 7 Diferencias en Diferencias](https://github.com/rpasquini/herramientas-econometricas/blob/main/Diferencias_en_Diferencias.ipynb)
 * [Día 8 Variables Instrumentales](https://github.com/rpasquini/herramientas-econometricas/blob/main/Instrumental_Variables.ipynb)
 
-## PPTs
-* [Presentaciones usadas en clase](https://github.com/rpasquini/herramientas-econometricas/tree/main/slides)
-* [Statistical Power and Choosing the Right Sample Size J-PAL](https://www.povertyactionlab.org/sites/default/files/research-resources/L5ChoosingTheRightSampleSize.pdf)
 
 
 ## Libros
