@@ -1,7 +1,7 @@
 # Econometría- Doctorado en Dirección de Empresas - IAE 2023
 
 ## Slides
-* [Dia 1 Modelo Lineal y CEF]([https://github.com/rpasquini/herramientas-econometricas/tree/main/slides](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%201.pdf)
+* [Dia 1 Modelo Lineal y CEF](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%201.pdf)
 * [Statistical Power and Choosing the Right Sample Size J-PAL](https://www.povertyactionlab.org/sites/default/files/research-resources/L5ChoosingTheRightSampleSize.pdf)
 
 
