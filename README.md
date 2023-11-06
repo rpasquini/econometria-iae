@@ -4,7 +4,7 @@
 * [Dia 1 Modelo Lineal y CEF](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%201.pdf)
 * [Dia 2 Bondad de Ajuste, Varianza, Test de Hipotesis](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%202.pdf)
 * [Dia 4 Clasificacion](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%203.pdf)
-* [Dia 5 RCT](https://github.com/rpasquini/econometria-iae/blob/main/Experimentos_Aleatorizados.ipynb)
+* [Dia 5 RCT](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%205%20sesgo%20selecci%C3%B3n%20y%20RCTs.pdf)
 
 
 
@@ -14,7 +14,7 @@
 * [Día 2 Predicción, Bondad de Ajuste](https://github.com/rpasquini/econometria-iae/blob/main/OLS_2_Ajuste_Propiedades_Test_de_Hip%C3%B3tesis.ipynb) 
 * [Día 4 Ejemplos Regresión Multivariada](https://github.com/rpasquini/econometria-iae/blob/main/Ejemplos_Regresion_Multiple.ipynb)
 * [Día 4 Clasificación](https://github.com/rpasquini/econometria-iae/blob/main/5_Modelos_de_Clasificacion.ipynb)
-* [Día 5 Experimentos Aleatorizados](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%205%20sesgo%20selecci%C3%B3n%20y%20RCTs.pdf)
+* [Día 5 Experimentos Aleatorizados](https://github.com/rpasquini/econometria-iae/blob/main/Experimentos_Aleatorizados.ipynb)
 * Día 5 Supuesto de Independencia Condicional
 * Día 6 Diferencias en Diferencias
 * Día 7 Variables Instrumentales
