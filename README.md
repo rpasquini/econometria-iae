@@ -5,6 +5,8 @@
 * [Dia 2 Bondad de Ajuste, Varianza, Test de Hipotesis](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%202.pdf)
 * [Dia 4 Clasificacion](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%203.pdf)
 * [Dia 5 RCT](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%205%20sesgo%20selecci%C3%B3n%20y%20RCTs.pdf)
+* [Dia 6 CIA](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%206%20CIA.pdf)
+
 
 
 
