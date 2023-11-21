@@ -19,7 +19,7 @@
 * [Día 4 Clasificación](https://github.com/rpasquini/econometria-iae/blob/main/5_Modelos_de_Clasificacion.ipynb)
 * [Día 5 Experimentos Aleatorizados](https://github.com/rpasquini/econometria-iae/blob/main/Experimentos_Aleatorizados.ipynb)
 * [Día 6 Supuesto de Independencia Condicional](https://github.com/rpasquini/econometria-iae/blob/main/CIA_y_Matching.ipynb) 
-* [Día 6 Diferencias en Diferencias](https://github.com/rpasquini/econometria-iae/blob/main/Diferencias_en_Diferencias.ipynb)
+* [Día 7 Diferencias en Diferencias](https://github.com/rpasquini/econometria-iae/blob/main/Diferencias_en_Diferencias.ipynb)
 * Día 7 Variables Instrumentales
 
 
