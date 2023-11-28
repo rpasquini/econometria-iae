@@ -7,7 +7,8 @@
 * [Dia 5 RCT](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%205%20sesgo%20selecci%C3%B3n%20y%20RCTs.pdf)
 * [Dia 6 CIA](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%206%20CIA.pdf)
 * [Dia 7 Dif in Dif](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%207%20DD.pdf)
-
+* [Día 8 DAGs](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%208.pdf)
+* [Día 8 Variables Instrumentales 1](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%208%20IVs%20parte%201.pdf)
 
 
 
@@ -20,7 +21,7 @@
 * [Día 5 Experimentos Aleatorizados](https://github.com/rpasquini/econometria-iae/blob/main/Experimentos_Aleatorizados.ipynb)
 * [Día 6 Supuesto de Independencia Condicional](https://github.com/rpasquini/econometria-iae/blob/main/CIA_y_Matching.ipynb) 
 * [Día 7 Diferencias en Diferencias](https://github.com/rpasquini/econometria-iae/blob/main/Diferencias_en_Diferencias.ipynb)
-* Día 7 Variables Instrumentales
+
 
 
 
