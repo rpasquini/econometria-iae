@@ -3,7 +3,10 @@
 ## Slides 
 * [Dia 1 Intro ](slides/intro/intro.pdf)
 * [Dia 1 Modelo Lineal y CEF](slides/cef/cef.pdf)
-* [Dia 2 Bondad de Ajuste, Varianza, Test de Hipotesis](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%202.pdf)
+* [Dia 2 OLS Bondad de Ajuste](slides/regresion/regresion.pdf)
+* [Dia 2 Propiedades Estadísticas](slides/regresion/regresion_propiedades_estadisticas.pdf)
+* [Dia 2 Tests de Hipotesis](slides/regresion/test_hipotesis.pdf)
+
 * [Dia 4 Clasificacion](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%203.pdf)
 * [Dia 5 RCT](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%205%20sesgo%20selecci%C3%B3n%20y%20RCTs.pdf)
 * [Dia 6 CIA](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%206%20CIA.pdf)
