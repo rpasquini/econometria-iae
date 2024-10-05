@@ -8,6 +8,7 @@
 * [Dia 2 Tests de Hipotesis](slides/regresion/test_hipotesis.pdf)
 
 * [Dia 3 Reg Multiple 1](econometria/slides/regresion_multiple/reg_categoricas_como_explicativas.pdf)
+
 * [Dia 3 Reg Multiple 2](econometria/slides/regresion_multiple/reg_multiple.pdf)
 
 * [Dia 4 Clasificacion](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%203.pdf)
