@@ -7,6 +7,9 @@
 * [Dia 2 Propiedades Estadísticas](slides/regresion/regresion_propiedades_estadisticas.pdf)
 * [Dia 2 Tests de Hipotesis](slides/regresion/test_hipotesis.pdf)
 
+* [Dia 3 Reg Multiple 1](econometria/slides/regresion_multiple/reg_categoricas_como_explicativas.pdf)
+* [Dia 3 Reg Multiple 2](econometria/slides/regresion_multiple/reg_multiple.pdf)
+
 * [Dia 4 Clasificacion](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%203.pdf)
 * [Dia 5 RCT](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%205%20sesgo%20selecci%C3%B3n%20y%20RCTs.pdf)
 * [Dia 6 CIA](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%206%20CIA.pdf)
