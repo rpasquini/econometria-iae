@@ -32,6 +32,9 @@
 * [Día 8 Variables Instrumentales](https://github.com/rpasquini/econometria-iae/blob/main/Instrumental_Variables.ipynb)
 
 
+## Dashboards
+
+[Interaction effects and sample size](https://betasigma.tech/interaction-effects-and-sample-size/)
 
 
 ## Libros
