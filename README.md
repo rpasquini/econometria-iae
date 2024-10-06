@@ -7,7 +7,7 @@
 * [Dia 2 Propiedades Estadísticas](slides/regresion/regresion_propiedades_estadisticas.pdf)
 * [Dia 2 Tests de Hipotesis](slides/regresion/test_hipotesis.pdf)
 
-* [Dia 3 Reg Multiple 1](slides/regresion_multiple/reg_categoricas_como_explicativas.pdf)
+* [Dia 3 Reg Multiple Variables Categoricas](slides/regresion_multiple/reg_categoricas_como_explicativas.pdf)
 
 * [Dia 3 Reg Multiple 2](slides/regresion_multiple/reg_multiple.pdf)
 
