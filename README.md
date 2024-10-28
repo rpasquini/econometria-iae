@@ -1,34 +1,19 @@
 # Econometría- Doctorado en Dirección de Empresas - IAE 
 
-## Slides 
-* [Dia 1 Intro ](slides/intro/intro.pdf)
-* [Dia 1 Modelo Lineal y CEF](slides/cef/cef.pdf)
-* [Dia 2 OLS Bondad de Ajuste](slides/regresion/regresion.pdf)
-* [Dia 2 Propiedades Estadísticas](slides/regresion/regresion_propiedades_estadisticas.pdf)
-* [Dia 2 Tests de Hipotesis](slides/regresion/test_hipotesis.pdf)
-* [Dia 3 Reg Multiple Variables Categoricas](slides/regresion_multiple/reg_categoricas_como_explicativas.pdf)
-
-* [Dia 3 Reg Multiple 2](slides/regresion_multiple/reg_multiple.pdf)
-
-* [Dia 4 Clasificacion](slides/clasificacion/clasificacion.pdf)
-* [Dia 5 RCT](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%205%20sesgo%20selecci%C3%B3n%20y%20RCTs.pdf)
-* [Dia 6 CIA](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%206%20CIA.pdf)
-* [Dia 7 Dif in Dif](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%207%20DD.pdf)
-* [Día 8 DAGs](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%208.pdf)
-* [Día 8 Variables Instrumentales](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%208%20IVs.pdf)
 
 
+| **Día** | **Fecha**   | **Slides** | **Notebooks** |
+|---------|-------------|------------|---------------|
+| Día 1   | 10/9        | [Intro](slides/intro/intro.pdf), [Modelo Lineal y CEF](slides/cef/cef.pdf) | [Función de Esperanza Condicional](https://github.com/rpasquini/econometria-iae/blob/main/CEF.ipynb) |
+| Día 2   | 17/9        | [OLS Bondad de Ajuste](slides/regresion/regresion.pdf), [Propiedades Estadísticas](slides/regresion/regresion_propiedades_estadisticas.pdf), | [Predicción, Bondad de Ajuste](https://github.com/rpasquini/econometria-iae/blob/main/OLS_2_Ajuste_Propiedades_Test_de_Hip%C3%B3tesis.ipynb) |
+| Día 3   | 24/9        | [Reg Multiple Variables Categóricas](slides/regresion_multiple/reg_categoricas_como_explicativas.pdf), [Reg Multiple 2](slides/regresion_multiple/reg_multiple.pdf)  | [Ejemplos Regresión Multivariada](https://github.com/rpasquini/econometria-iae/blob/main/Ejemplos_Regresion_Multiple.ipynb),|
+| Día 4   | 8/10        | [Tests de Hipótesis](slides/regresion/test_hipotesis.pdf)  |  |
+| Día 5   | 29/10        | [Clasificación](slides/clasificacion/clasificacion.pdf) |  [Clasificación](https://github.com/rpasquini/econometria-iae/blob/main/5_Modelos_de_Clasificacion.ipynb) |
+| Día 6   | 12/11      | [RCT](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%205%20sesgo%20selecci%C3%B3n%20y%20RCTs.pdf) | [Experimentos Aleatorizados](https://github.com/rpasquini/econometria-iae/blob/main/Experimentos_Aleatorizados.ipynb) |
+| Día 7   | 19/11       | [CIA](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%206%20CIA.pdf) | [Supuesto de Independencia Condicional](https://github.com/rpasquini/econometria-iae/blob/main/CIA_y_Matching.ipynb) |
+| Día 8   | 26/11       | [Dif in Dif](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%207%20DD.pdf) | [Diferencias en Diferencias](https://github.com/rpasquini/econometria-iae/blob/main/Diferencias_en_Diferencias.ipynb) |
+| Día 9   | 3/12       | [DAGs](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%208.pdf), [Variables Instrumentales](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%208%20IVs.pdf) | [Variables Instrumentales](https://github.com/rpasquini/econometria-iae/blob/main/Instrumental_Variables.ipynb) |
 
-## Notebooks
-
-* [Día 1 Función de Esperanza Condicional](https://github.com/rpasquini/econometria-iae/blob/main/CEF.ipynb)
-* [Día 2 Predicción, Bondad de Ajuste](https://github.com/rpasquini/econometria-iae/blob/main/OLS_2_Ajuste_Propiedades_Test_de_Hip%C3%B3tesis.ipynb) 
-* [Día 4 Ejemplos Regresión Multivariada](https://github.com/rpasquini/econometria-iae/blob/main/Ejemplos_Regresion_Multiple.ipynb)
-* [Día 4 Clasificación](https://github.com/rpasquini/econometria-iae/blob/main/5_Modelos_de_Clasificacion.ipynb)
-* [Día 5 Experimentos Aleatorizados](https://github.com/rpasquini/econometria-iae/blob/main/Experimentos_Aleatorizados.ipynb)
-* [Día 6 Supuesto de Independencia Condicional](https://github.com/rpasquini/econometria-iae/blob/main/CIA_y_Matching.ipynb) 
-* [Día 7 Diferencias en Diferencias](https://github.com/rpasquini/econometria-iae/blob/main/Diferencias_en_Diferencias.ipynb)\
-* [Día 8 Variables Instrumentales](https://github.com/rpasquini/econometria-iae/blob/main/Instrumental_Variables.ipynb)
 
 
 ## Dashboards
