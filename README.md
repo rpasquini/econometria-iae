@@ -34,7 +34,15 @@
 * [World Bank's Impact Evaluation in Practice Book](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice)
 * [Running randomized evaluations site](http://runningres.com/)
 
-## Papers
+## Papers citados
+* [Dominique M. Hanssens , Leonard J. Parsons , Randall L. Schultz,  Market Response Models: Econometric and Time Series Analysis](https://link.springer.com/book/10.1007/978-94-009-1073-7)
+
+* [Eugene Fama and Kenneth French (1993), Common Risk Factors on Stocks and Bonds](https://www.bauer.uh.edu/rsusmel/phd/Fama-French_JFE93.pdf)
+
+*  [Oaxaca, R. (1973). Male-female wage differentials in urban labor markets.](https://inequality.stanford.edu/sites/default/files/media/_media/pdf/Classic_Media/Oaxaca_1973_Discrimination%20and%20Prejudice.pdf)
+
+* [Diaz Hermelo, F., & Vassolo, R. (2012). How much does country matter in emerging economies? Evidence from Latin America. International Journal of Emerging Markets, 7(3), 263-288.](https://ri.conicet.gov.ar/bitstream/handle/11336/195165/CONICET_Digital_Nro.31627f45-3077-4a1d-8595-24603bc780b8_B.pdf?sequence=2&isAllowed=y)
+
 * [Galiani, Gertler, Undurraga, Cooper, Martınez, and Ross, 2016, "Shelter from the Storm: Upgrading Housing Infrastructure in Latin American Slums"](https://wagner.nyu.edu/files/doctoral/ShelterFromTheStorm_(forthcoming%20JUEC).pdf)
 * [Chetty, Raj, Nathaniel Hendren, and Lawrence F. Katz. “The Effects of Exposure to Better Neighborhoods on Children: New Evidence from the Moving to Opportunity Experiment.”](https://www.nber.org/system/files/working_papers/w21156/w21156.pdf) American Economic Review 106, no. 4 (April 2016): 855–902. https://doi.org/10.1257/aer.201505
 * [Dale, S. B., & Krueger, A. B. (2002). Estimating the payoff to attending a more selective college: An application of selection on observables and unobservables. The Quarterly Journal of Economics, 117(4), 1491-1527.](https://cdn.theatlantic.com/static/mt/assets/business/dalekrueger_More_Selective_College.pdf)
