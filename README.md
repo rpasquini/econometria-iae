@@ -5,9 +5,9 @@
 
 | **Módulo** | **Fecha**   | **Slides** | **Notebooks** |
 |---------|-------------|------------|---------------|
-| 1   | 6/8        | [Intro](slides/intro/intro.pdf), [Modelo Lineal y CEF](slides/cef/cef.pdf) | [Función de Esperanza Condicional](https://github.com/rpasquini/econometria-iae/blob/main/CEF.ipynb) |
-| 2   | 20/8        | [OLS Bondad de Ajuste](slides/regresion/regresion.pdf), [Propiedades Estadísticas](slides/regresion/regresion_propiedades_estadisticas.pdf), | [Predicción, Bondad de Ajuste](https://github.com/rpasquini/econometria-iae/blob/main/OLS_2_Ajuste_Propiedades_Test_de_Hip%C3%B3tesis.ipynb) |
-| 3   | 27/8        | [Reg Multiple Variables Categóricas](slides/regresion_multiple/reg_categoricas_como_explicativas.pdf), [Reg Multiple 2](slides/regresion_multiple/reg_multiple.pdf)  | [Ejemplos Regresión Multivariada](https://github.com/rpasquini/econometria-iae/blob/main/Ejemplos_Regresion_Multiple.ipynb),|
+| 1   | 6/8        | [Intro](slides/intro/intro.pdf), [Modelo Lineal y CEF](slides/cef/cef.pdf) |  |
+| 2   | 20/8        | [OLS Bondad de Ajuste](slides/regresion/regresion.pdf),  | [Función de Esperanza Condicional](https://github.com/rpasquini/econometria-iae/blob/main/CEF.ipynb), [Predicción, Bondad de Ajuste](https://github.com/rpasquini/econometria-iae/blob/main/OLS_2_Ajuste_Propiedades_Test_de_Hip%C3%B3tesis.ipynb) |
+| 3   | 27/8        | [Propiedades Estadísticas](slides/regresion/regresion_propiedades_estadisticas.pdf), [Reg Multiple Variables Categóricas](slides/regresion_multiple/reg_categoricas_como_explicativas.pdf), [Reg Multiple 2](slides/regresion_multiple/reg_multiple.pdf)  | [Ejemplos Regresión Multivariada](https://github.com/rpasquini/econometria-iae/blob/main/Ejemplos_Regresion_Multiple.ipynb),|
 | 4   | 3/9        | [Tests de Hipótesis](slides/regresion/test_hipotesis.pdf)  |  |
 | 5   | 3/9        | [Clasificación](slides/clasificacion/clasificacion.pdf) |  [Clasificación](https://github.com/rpasquini/econometria-iae/blob/main/5_Modelos_de_Clasificacion.ipynb) |
 | 6   |10/9      | [RCT](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%205%20sesgo%20selecci%C3%B3n%20y%20RCTs.pdf) | [Experimentos Aleatorizados](https://github.com/rpasquini/econometria-iae/blob/main/Experimentos_Aleatorizados.ipynb) |
