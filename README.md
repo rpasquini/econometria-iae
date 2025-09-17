@@ -10,11 +10,11 @@
 | 3   | 27/8        | [Propiedades Estadísticas](slides/regresion/regresion_propiedades_estadisticas.pdf), [Tests de Hipótesis](slides/regresion/test_hipotesis.pdf)   | [Predicción, Bondad de Ajuste](https://github.com/rpasquini/econometria-iae/blob/main/OLS_2_Ajuste_Propiedades_Test_de_Hip%C3%B3tesis.ipynb) |
 | 4   | 3/9        | [Reg Multiple Variables Categóricas](slides/regresion_multiple/reg_categoricas_como_explicativas.pdf) [Reg Multiple 2](slides/regresion_multiple/reg_multiple.pdf) | [Ejemplos Regresión Multivariada](https://github.com/rpasquini/econometria-iae/blob/main/Ejemplos_Regresion_Multiple.ipynb) |
 |  5   |  10/9      | [Revisión de supuestos](slides/regresion/regresion-supuests/regresión-supuestos.pdf)  | [Predicción, Bondad de Ajuste](https://github.com/rpasquini/econometria-iae/blob/main/OLS_2_Ajuste_Propiedades_Test_de_Hip%C3%B3tesis.ipynb) |
-| 6   | 10/9        | [Clasificación](slides/clasificacion/clasificacion.pdf) |  [Clasificación](https://github.com/rpasquini/econometria-iae/blob/main/5_Modelos_de_Clasificacion.ipynb) |
-| 7   |17/9      | [RCT](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%205%20sesgo%20selecci%C3%B3n%20y%20RCTs.pdf) | [Experimentos Aleatorizados](https://github.com/rpasquini/econometria-iae/blob/main/Experimentos_Aleatorizados.ipynb) |
+| 6   | 17/9        | [Clasificación](slides/clasificacion/clasificacion.pdf) |  [Clasificación](https://github.com/rpasquini/econometria-iae/blob/main/5_Modelos_de_Clasificacion.ipynb) |
+| 7   |24/9      | [RCT](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%205%20sesgo%20selecci%C3%B3n%20y%20RCTs.pdf) | [Experimentos Aleatorizados](https://github.com/rpasquini/econometria-iae/blob/main/Experimentos_Aleatorizados.ipynb) |
 | 8   | 24/9       | [CIA](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%206%20CIA.pdf) | [Supuesto de Independencia Condicional](https://github.com/rpasquini/econometria-iae/blob/main/CIA_y_Matching.ipynb) |
-| 9   | 24/9       | [Dif in Dif](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%207%20DD.pdf) | [Diferencias en Diferencias](https://github.com/rpasquini/econometria-iae/blob/main/Diferencias_en_Diferencias.ipynb) |
-| 10   | 1/10       | [DAGs](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%208.pdf), [Variables Instrumentales](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%208%20IVs.pdf) | [Variables Instrumentales](https://github.com/rpasquini/econometria-iae/blob/main/Instrumental_Variables.ipynb) |
+| 9   | 1/10       | [Dif in Dif](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%207%20DD.pdf) | [Diferencias en Diferencias](https://github.com/rpasquini/econometria-iae/blob/main/Diferencias_en_Diferencias.ipynb) |
+| 10   | 8/10       | [DAGs](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%208.pdf), [Variables Instrumentales](https://github.com/rpasquini/econometria-iae/blob/main/slides/dia%208%20IVs.pdf) | [Variables Instrumentales](https://github.com/rpasquini/econometria-iae/blob/main/Instrumental_Variables.ipynb) |
 
 ## Dashboards
 
